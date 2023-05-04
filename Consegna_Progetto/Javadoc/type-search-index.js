@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"progetto","l":"Agenda"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"progetto","l":"Appuntamento"},{"p":"progetto","l":"Main"},{"p":"progetto","l":"OverlapException"},{"p":"progetto","l":"Agenda.Search"},{"p":"progetto","l":"UndoOperationException"}]
